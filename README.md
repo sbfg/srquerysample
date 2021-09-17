@@ -1,6 +1,6 @@
 SRQuery Samples
 ===================================
-These samples demonstrate the end-to-end use of the SRQuery Sample.
+These samples demonstrate the end-to-end use of the SRQuery.
 SRQuery provides services for analyzing the configuration of a particular device to verify that it passes the SSLCompatibility test.
 
 License
